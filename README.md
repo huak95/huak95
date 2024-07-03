@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksorn)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/saksornh)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-ffbf00?style=for-the-badge)](https://huggingface.co/saksornr)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOURID)
 
 ## AI Researcher specializing in LLM and NLP 🤖📚
 
@@ -28,8 +29,6 @@ Innovative Data Scientist with a strong background in AI, focusing on Large Lang
 
 3. **Gaussian Quantum-Behaved Particle Swarm with Learning Automata-Adaptive Attractor and Local Search** - ECTI-CON 2022 (May 2022)
    - Visualized optimization benchmark data and finding insight from different algorithms.
-
-[View more on Google Scholar](https://scholar.google.com/citations?user=YOURID)
 
 ### 🌱 I'm currently learning
 - Advanced techniques in LLM fine-tuning
