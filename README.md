@@ -11,7 +11,7 @@ Innovative Data Scientist with a strong background in AI, focusing on Large Lang
 
 ### 🏆 Achievements
 - Gold Medal in Super AI Engineer Season 2
-- Winner of Bangkok AI Hack 2023
+- Winner of Typhoon Hackahon 2024
 - Published research in NLP, nuclear engineering, and optimization algorithms
 
 ### 🛠 Technical Skills
